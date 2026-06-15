@@ -3,7 +3,7 @@
     "category": "music",
     "sounds": [
       {
-        "name": "song1",
+        "name": "sadvistan:song1.ogg",
         "stream": true
       }
     ]
