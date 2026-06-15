@@ -1,0 +1,11 @@
+{
+  "custom_epic_music": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "song1",
+        "stream": true
+      }
+    ]
+  }
+}
